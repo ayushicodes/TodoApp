@@ -5,7 +5,7 @@ body {
 .todo-list {
   background-color: white;
   margin: auto;
-  width: 50%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,7 +29,7 @@ body {
   justify-content: flex-start;
   align-items: center;
   padding: 30px 20px 0;
-  width: 70%;
+  width: 100%;
   border-bottom: 1px solid #cecece;
   font-family: Roboto, sans-serif;
   font-weight: 100;
@@ -39,7 +39,7 @@ body {
 
 input[type=checkbox] {
   margin-right: 10px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 input[type=checkbox]:focus {
