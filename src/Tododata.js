@@ -1,27 +1,27 @@
 const Tododata = [
     {
         id: "1",
-        activity: "studying",
-        completed: true
+        activity: "Complete React",
+        completed: false
     },
     {
         id: "2",
-        activity: " cricket",
+        activity: "Make Project",
         completed: false
     },
     {
         id: "3",
-        activity: "code",
-        completed: true
+        activity: "Build Resume",
+        completed: false
     },
     {
         id: "4",
-        activity: " study",
-        completed: true
+        activity: "Watch Lucifer ",
+        completed: false
     },
     {
         id: "5",
-        activity: "sleep",
+        activity: "Sleep",
         completed: false
     }
 ]
